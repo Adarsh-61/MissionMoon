@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adarsh-61/MissionMoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Adarsh-61/MissionMoon/issues"
+  },
+  "homepage": "https://github.com/Adarsh-61/MissionMoon#readme",
+  "dependencies": {
+    "three": "^0.181.2",
+    "vite": "^7.2.6"
+  }
+}
